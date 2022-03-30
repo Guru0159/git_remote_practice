@@ -1,8 +1,11 @@
 # git_remote_practice
 test practice repo
 git practic repo
+<<<<<<< HEAD
 chnage in the local repo 
-chnage in the local repo
 change in the local
+=======
+chnage in the local repo
 change in the remote 1
 change in the remote2
+>>>>>>> 3d32962907837f2abae7025f410b91c155b54ac6
